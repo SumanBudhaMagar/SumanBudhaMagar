@@ -14,4 +14,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanbudhamagar&show_icons=true&locale=en&layout=compact" alt="sumanbudhamagar" /></p>
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   56 mins         █████████████░░░░░░░░░░░░   51.99 %
+Python       26 mins         ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+Git Config   22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
